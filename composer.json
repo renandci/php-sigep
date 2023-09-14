@@ -17,12 +17,12 @@
     }
   ],
   "require": {
-    "php": ">=5.6"
+    "php": ">=5.6",
+    "stavarengo/php-sigep-fpdf": "dev-master"
   },
   "autoload": {
     "psr-0": {
-      "PhpSigep\\": "src/PhpSigep/",
-      "PhpSigepFPDF\\": "src/PhpSigepFPDF/"
+      "PhpSigep": "src"
     }
   }
 }
