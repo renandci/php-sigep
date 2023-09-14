@@ -1,6 +1,6 @@
 {
   "name": "renandci/php-sigep",
-  "description": "Isso é um cópia do criador Stavarengo",
+  "description": "Funções para imprimir etiqueta dos correios",
   "type": "lbrary",
   "keywords": [
     "etiqueta",
