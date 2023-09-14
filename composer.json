@@ -1,6 +1,14 @@
 {
   "name": "renandci/correios",
   "description": "Isso é um cópia do criador Stavarengo",
+  "keywords": [
+    "etiqueta",
+    "pdf",
+    "correios",
+    "qr",
+    "qrcode",
+    "codigbarra"
+  ],
   "authors": [
     {
       "name": "Renan Constancio",
@@ -9,7 +17,7 @@
   ],
   "minimum-stability": "dev",
   "require": {
-    "php": ">=5.3 && <= 7.1"
+    "php": ">=5.3 || <= 7.1"
   },
   "autoload": {
     "psr-4": {
