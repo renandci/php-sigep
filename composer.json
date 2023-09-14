@@ -1,6 +1,7 @@
 {
   "name": "renandci/correios",
   "description": "Isso é um cópia do criador Stavarengo",
+  "type": "lbrary",
   "keywords": [
     "etiqueta",
     "pdf",
@@ -16,7 +17,7 @@
     }
   ],
   "require": {
-    "php": ">=5.3 || <= 7.1"
+    "php": ">=5.6"
   },
   "autoload": {
     "psr-4": {
