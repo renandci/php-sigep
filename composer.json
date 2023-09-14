@@ -1,0 +1,19 @@
+{
+  "name": "renandci/correios",
+  "description": "Isso é um cópia do criador Stavarengo",
+  "authors": [
+    {
+      "name": "Renan Constancio",
+      "email": "renan@dcisuporte.com.br"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.3 && <= 7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "PhpSigep\\": "src/"
+    }
+  }
+}
