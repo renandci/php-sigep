@@ -162,6 +162,7 @@ class ImprovedFPDF extends \PhpSigepFPDF
     ob_start();
     imagepng($im);
     $data = ob_get_contents();
+    ob_end_clean();
     $this->MemImage($data, $x, $y, $w, $h, $link);
   }
 
