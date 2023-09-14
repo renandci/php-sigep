@@ -161,7 +161,7 @@ class ImprovedFPDF extends \PhpSigepFPDF
     //Display the GD image associated to $im
     ob_start();
     imagepng($im);
-    $data = ob_get_clean();
+    $data = ob_get_contents();
     $this->MemImage($data, $x, $y, $w, $h, $link);
   }
 
