@@ -1,5 +1,5 @@
 {
-  "name": "renandci/correios",
+  "name": "renandci/php-sigep",
   "description": "Isso é um cópia do criador Stavarengo",
   "type": "lbrary",
   "keywords": [
@@ -8,7 +8,7 @@
     "correios",
     "qr",
     "qrcode",
-    "codigbarra"
+    "codigobarra"
   ],
   "authors": [
     {
